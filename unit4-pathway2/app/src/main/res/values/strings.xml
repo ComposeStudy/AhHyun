@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">LunchTray</string>
+    <string name="app_name">Lunch Tray</string>
+    <string name="choose_entree">Choose Entree</string>
+    <string name="choose_side_dish">Choose Side Dish</string>
+    <string name="choose_accompaniment">Choose Accompaniment</string>
+    <string name="order_checkout">Order Checkout</string>
 </resources>
